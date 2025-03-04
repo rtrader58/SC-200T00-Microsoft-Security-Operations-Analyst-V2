@@ -1,14 +1,22 @@
 # SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 3 Labs
 
-## Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment
-
+## Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment (~30 Minutes)
+### Exercise 1 - Configure your Microsoft Sentinel environment
 No Errata <br>
 
-## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel
+## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes)
+Lab will take ~10 minutes to launch<br>
+### Exercise 1 - Connect data to Microsoft Sentinel using data connectors
+Task 2: Connect the Microsoft Defender for Cloud data connector
+Step 7: You may have manually enable for all plans 
 
 ### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors
-Task 2 - Connecrt an Azure Windows virtual machine <br>
-step 6:  Paste function does not work, manually type the name AZWIN01DCR <br>
+Task 2: Connect an On-Premises Server to Azure
+Step 6:  If there appears to be no progress installing the agent, select the Cmd window and press enter
 
-Task 3 - Connect a non-Azure Windows Machine <br>
-step 30:  Paste function does not work, manually type the name WIN2 <br>
+Task 3: Connect an Azure Windows virtual machine
+Step 12:  AZWIN01 may be located in the RG-AZWIN01 resource group
+
+### Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors
+Task 2: Connect a Linux Host using the Common Event Format connector
+Step 6: Must log in manually copy and paste does not work - credentials are located in the Resources tab
