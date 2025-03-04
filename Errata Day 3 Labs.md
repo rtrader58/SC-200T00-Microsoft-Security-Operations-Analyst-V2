@@ -1,7 +1,10 @@
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Learning Path 7
-# Ensure you choose "SAVE" when finishing for the day - so as not to lose your work
+# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 3 Labs
 
-## Learning Path 7 - Lab 01 – Connect logs to Microsoft Sentinel
+## Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment
+
+No Errata <br>
+
+## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel
 
 ### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors
 Task 2 - Connecrt an Azure Windows virtual machine <br>
