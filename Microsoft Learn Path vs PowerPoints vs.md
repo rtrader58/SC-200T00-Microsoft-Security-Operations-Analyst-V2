@@ -118,7 +118,7 @@ Module 5: Connect Common Event Format logs to Microsoft Sentinel - https://learn
 Module 6: Connect syslog data sources to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-syslog-data-sources-to-azure-sentinel/ <br>
 Module 7: Connect threat indicators to Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/connect-threat-indicators-to-azure-sentinel/ <br>
 
-## Lab (~60 Minutes) 
+## Lab (~80 Minutes) 
 
 ### Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel <br>
 Exercise 1 - Connect data to Microsoft Sentinel using data connectors <br>
