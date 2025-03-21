@@ -6,11 +6,10 @@
 
 Module 1: Introduction to Microsoft 365 threat protection - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-threat-protection/<br>
 Module 2: Mitigate incidents using Microsoft 365 Defender - https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/ <br>
-Module 3: Protect your identities with Azure AD Identity Protection - https://learn.microsoft.com/en-us/training/modules/protect-identities-with-aad-idp/<br>
-Module 4: Remediate risks with Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/training/modules/m365-threat-remediate/<br>
-Module 5: Safeguard your environment with Microsoft Defender for Identity - https://learn.microsoft.com/en-us/training/modules/m365-threat-safeguard/<br>
+Module 3: Remediate risks with Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/training/modules/m365-threat-remediate/<br>
+Module 4: Safeguard your environment with Microsoft Defender for Identity - https://learn.microsoft.com/en-us/training/modules/m365-threat-safeguard/<br>
+Module 5: Protect your identities with Microsoft Entra Identity Protection - https://learn.microsoft.com/en-us/training/modules/protect-identities-with-aad-idp/<br>
 Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/<br>
-Module 7: Respond to data loss prevention alerts using Microsoft 365 - https://learn.microsoft.com/en-us/training/modules/respond-to-data-loss-prevention-alerts-microsoft-365/<br>
 
 ## Lab (~30 Minutes)
 
