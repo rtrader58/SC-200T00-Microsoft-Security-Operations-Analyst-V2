@@ -1,8 +1,6 @@
 # SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 1
 # Ensure you choose "SAVE" if you do not finish all 4 labs - so as not to lose your work
 
-# Ensure you choose "SAVE" if you do not finish all 4 labs - so as not to lose your work
-
 ## Learning Path 1 - Lab 1 - Explore Microsoft Defender XDR (~30 Minutes)
 ### Exercise 1 - Explore Microsoft Defender XDR
 
