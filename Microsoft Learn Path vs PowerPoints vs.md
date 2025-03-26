@@ -101,7 +101,7 @@ Module 2: Create and manage Microsoft Sentinel workspaces - https://learn.micros
 Module 3: Query logs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-logs-azure-sentinel/ <br>
 Module 4: Use watchlists in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-watchlists-azure-sentinel/ <br>
 Module 5: Utilize threat intelligence in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/utilize-threat-intelligence-azure-sentinel/ <br>
-
+Module 6: Integrate Microsoft Defender XDR with Microsoft Sentinel
 ## Lab (~30 Minutes)
 
 ### Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment <BR>
