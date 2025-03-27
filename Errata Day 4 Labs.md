@@ -2,6 +2,8 @@
 
 ## Learning Path 9 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel
 
+Lab will take between 10-30 minutes to launch<br>
+
 ### Exercise 1 - Modify a Microsoft Security rule
 
 Task 1 - Activate a microsoft Security Rule <br>
@@ -9,4 +11,5 @@ Step 11:  If not selected select Informational, Mediun and High <br>
 
 ## Learning Path 10 - Lab 1 –Threat hunting in Microsoft Sentinel
 
+Lab will take between 10-30 minutes to launch<br>
 No Errata
