@@ -5,7 +5,8 @@
 No Errata <br>
 
 ## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes)
-Lab will take ~10 minutes to launch<br>
+Lab will take between 10-30 minutes to launch<br>
+
 ### Exercise 1 - Connect data to Microsoft Sentinel using data connectors
 Task 2: Connect the Microsoft Defender for Cloud data connector <br>
 Step 7: You may have manually enable for all plans  <br>
