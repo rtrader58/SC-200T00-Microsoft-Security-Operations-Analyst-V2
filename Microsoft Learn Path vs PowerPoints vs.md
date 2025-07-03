@@ -8,7 +8,7 @@ Module 1: Introduction to Microsoft 365 threat protection - https://learn.micros
 Module 2: Mitigate incidents using Microsoft 365 Defender - https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/ <br>
 Module 3: Remediate risks with Microsoft Defender for Office 365 - https://learn.microsoft.com/en-us/training/modules/m365-threat-remediate/<br>
 Module 4: Safeguard your environment with Microsoft Defender for Identity - https://learn.microsoft.com/en-us/training/modules/m365-threat-safeguard/<br>
-Module 5: Protect your identities with Microsoft Entra Identity Protection - https://learn.microsoft.com/en-us/training/modules/protect-identities-with-aad-idp/<br>
+Module 5: Protect your identities with Microsoft Entra Identity Protection - [https://learn.microsoft.com/en-us/training/modules/protect-identities-with-aad-idp/<br>
 Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/<br>
 
 ## Lab (~30 Minutes)
