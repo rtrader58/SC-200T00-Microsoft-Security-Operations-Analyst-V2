@@ -6,7 +6,7 @@ Github lab repository - https://github.com/MicrosoftLearning/SC-200T00A-Microsof
 Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br>
 SC-200 Exam Objectives - https://learn.microsoft.com/en-us/certifications/exams/sc-200<br>
 SC-200 Exam study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3<br>
-Interface Technical Training Exam Promo - https://www.interfacett.com/microsoft-certification-exams/<br>
+Interface Technical Training Exam voucher - https://www.interfacett.com/microsoft-certification-exams/<br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
 Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
