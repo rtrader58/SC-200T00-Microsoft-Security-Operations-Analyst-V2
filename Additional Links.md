@@ -13,6 +13,13 @@ Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-wit
 Azure Fridays - https://learn.microsoft.com/en-us/shows/azure-friday/<br>
 Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog<br>
 Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
+Describe core Azure architectural components - https://learn.microsoft.com/en-us/training/modules/azure-architecture-fundamentals/ <br>
+Explore Azure compute services - https://learn.microsoft.com/en-us/training/modules/azure-compute-fundamentals/ <br>
+Explore Azure networking services - https://learn.microsoft.com/en-us/training/modules/azure-networking-fundamentals/ <br>
+Explore Azure Storage services - https://learn.microsoft.com/en-us/training/modules/azure-storage-fundamentals/ <br>
+Explore Azure database and analytics services - https://learn.microsoft.com/en-us/training/modules/azure-database-fundamentals/ <br>
+Choose the best Azure serverless technology for your business scenario - https://learn.microsoft.com/en-us/training/modules/serverless-fundamentals/ <br>
+Choose the best monitoring service for visibility, insight, and outage mitigation - https://learn.microsoft.com/en-us/training/modules/monitoring-fundamentals/ <br>
 Microsoft Defender for Servers Overview - https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introduction#defender-for-servers-plans<br>
 Microsoft Defender for Servers Pricing - https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/<br>
 Azure Sentinel tables explained - https://medium.com/wortell/azure-sentinel-tables-explained-d91d8cad6f <br>
