@@ -9,7 +9,7 @@ Module 5: Protect your identities with Microsoft Entra Identity Protection - htt
 Module 6: Secure your cloud apps and services with Microsoft Defender for Cloud Apps - https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/<br>
 ### Learning Path 1 - Lab 1: Mitigate threats using Microsoft 365 Defender (~30 Minutes) <br>
 Exercise 1 - Explore Microsoft 365 Defender <br>
-## Learning Path 2: Mitigat threats using Microsoft Security Copilot - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-copilot-for-security/
+## Learning Path 2: Mitigate threats using Microsoft Security Copilot - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-copilot-for-security/
 Module 1:  Fundamentals of Generative AI - https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/ <br>
 Module 2:  Describe Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/ <br>
 Module 3:  Describe the core features of Microsoft Copilot for Security - https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/ <br>
