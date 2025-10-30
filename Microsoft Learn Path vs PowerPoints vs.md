@@ -92,7 +92,7 @@ Module 5: Identify threats with Entity behavioral analytics in Microsoft Sentine
 Module 6: Data normalization in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/data-normalization-microsoft-sentinel/ <br>
 Module 7: Query, visualize, and monitor data in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/query-data-sentinel/ <br>
 Module 8: Manage content in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/ <br>
-### Learning Path 9 - Lab 01: Create detections and perform investigations using Microsoft Sentinel (~60 Minutes) (+ ~30 Minute build time)  <br>
+### Learning Path 9 - Lab 01: Create detections and perform investigations using Microsoft Sentinel (~90 - 120 Minutes)  <br>
 Exercise 1 - Modify a Microsoft Security rule <br>
 Exercise 2 - Create a playbook <br>
 Exercise 3 - Create a scheduled query <br>
@@ -109,6 +109,6 @@ Module 1: Explain threat hunting concepts in Microsoft Sentinel- https://learn.m
 Module 2: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/hunt-threats-sentinel/ <br>
 Module 3: Use Search jobs in Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/ <br>
 Module 4: Threat hunting with Microsoft Sentinel - https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/ <br>
-### Learning Path 10 - Lab 1 – Threat hunting in Microsoft Sentinel (~30 Minutes) (+ ~30 Minute build time) <br>
+### Learning Path 10 - Lab 1 – Threat hunting in Microsoft Sentinel (~90 - 120 Minutes) <br>
 Exercise 1 - Perform threat hunting in Microsoft Sentinel <br>
 Exercise 2 - Threat hunting using notebooks with Microsoft Sentinel <br>
