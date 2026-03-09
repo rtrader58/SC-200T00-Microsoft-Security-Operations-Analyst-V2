@@ -13,11 +13,6 @@ There may be no recommedations as the lab has not been running long enough > ski
 #### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
 ### Exercise 1 - Create queries for Microsoft Sentinel using Kusto Query Language (KQL)
 Task 1: Prepare the KQL testing area <br>
-Wait for the deployment to finish  <br>
-Task 2: Explore the Log Analytics Workspace
+Wait for the deployment to finish <br>
 
-Task 1: Access the KQL testing area <br>
-Step 7: I had to use custom and go back to the beginning of the previous month <br>
 
-Task 2: Run Basic KQL Statements <br>
-The queries in the task may not generate any results, if you want to see results change the ago(7d) to ago(45d)<br>
