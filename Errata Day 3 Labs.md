@@ -6,15 +6,14 @@ Task 4: Create a Watchlist<br>
 Step 18: It will take at least 10 Minutes for the Watchlist to function even though it will be listed<br>
 
 Task 5: Create a Threat Indicator<br>
-Step 1: If + New is not available wait a few minutes<br>
-Step 13: Wait a few minutes before continuing 
+Unable to complete due to Threat Indicator being moved to the Microsoft Defender Portal <br>
 
 ## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes)
-Lab will take between 10-30 minutes to launch<br>
+#### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
 
 ### Exercise 1 - Connect data to Microsoft Sentinel using data connectors
 Task 2: Connect the Microsoft Defender for Cloud data connector <br>
-Step 7: You may have manually enable for all plans  <br>
+Step 7: You may have exit the content hub and navigate back to the connector  <br>
 
 ### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors
 Task 2: Connect an On-Premises Server to Azure <br>
