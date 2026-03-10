@@ -8,7 +8,7 @@ Step 18: It will take at least 10 Minutes for the Watchlist to function even tho
 Task 5: Create a Threat Indicator<br>
 Unable to complete due to Threat Indicator being moved to the Microsoft Defender Portal <br>
 
-## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes)
+## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes) (+ 30 Minute Build Time)
 #### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
 
 ### Exercise 1 - Connect data to Microsoft Sentinel using data connectors
