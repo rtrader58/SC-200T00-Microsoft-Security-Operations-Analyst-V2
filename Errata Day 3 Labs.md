@@ -22,6 +22,18 @@ Step 6:  If there appears to be no progress installing the agent, select the Cmd
 Task 3: Connect an Azure Windows virtual machine <br>
 Step 12:  AZWIN01 may be located in the RG-AZWIN01 resource group <br>
 
+Task 4: Connect a non-Azure Windows Machine <br>
+Step 4: WINSever may be located in the RG-AZWIN01 resource group <br>
+
 ### Exercise 3 - Connect Linux hosts to Microsoft Sentinel using data connectors
 Task 2: Connect a Linux Host using the Common Event Format connector <br>
 Step 6: Must log in manually copy and paste does not work - credentials are located in the Resources tab <br>
+Step 26: LIN1 may be located in the RG-AZWIN01 resource group <br
+Step 31: Should read connected to LIN1 not LIN2 <br>
+
+Task 3: Connect a Linux host using the Syslog connector
+Step 27: LIN2 may be located in the RG-AZWIN01 resource group <br
+
+### Exercise 4 - Connect Defender XDR to Microsoft Sentinel using data connectors
+Task 2: Connect Microsoft Sentinel and Microsoft Defender XDR  <br>
+Step 13: If you close the "Your unified SIEM and XDR is ready" expand Investigations & response > select Advanced hunting <br>
