@@ -13,7 +13,7 @@ Unable to complete due to Threat Indicator being moved to the Microsoft Defender
 
 ### Exercise 1 - Connect data to Microsoft Sentinel using data connectors
 Task 2: Connect the Microsoft Defender for Cloud data connector <br>
-Step 7: You may have exit the content hub and navigate back to the connector  <br>
+Step 10: You may have exit the content hub and navigate back to the connector  <br>
 
 ### Exercise 2 - Connect Windows devices to Microsoft Sentinel using data connectors
 Task 2: Connect an On-Premises Server to Azure <br>
