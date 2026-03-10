@@ -5,7 +5,8 @@ Lab environment - https://interfacett.learnondemand.net<br>
 Github lab repository - https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst<br>
 Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br>
 SC-200 Exam Objectives - https://learn.microsoft.com/en-us/certifications/exams/sc-200<br>
-SC-200 Exam study guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3<br>
+SC-200 Exam study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-200 <br>
+SC-200 Exam Prep Videos - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-200-manage-a-security-operations-environment <br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
 Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
