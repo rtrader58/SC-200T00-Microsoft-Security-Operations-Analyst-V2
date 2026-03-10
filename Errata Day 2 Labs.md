@@ -7,7 +7,7 @@ Step 4: Paste command in notepad > update the subscritption > paste into Command
 
 ### Exercise 2 - Mitigate threats using Microsoft Defender for Cloud
 Task 2: Explore Security Recommendations <br>
-There may be no recommedations as the lab has not been running long enough > skip to next Task <br>
+Due to the limitations of the lab there may be no recommedations listed > skip to next Task <br>
 
 ## Learning Path 6 - Lab 01 – Create queries for Microsoft Sentinel using Kusto Query Language (KQL) (~60 Minutes)
 #### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
