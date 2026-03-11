@@ -33,15 +33,15 @@ No Errata <br>
 Task 1: Persistence Attack Detection <br>
 Step 10: The paste with add ; to the first line. Delete it <br>
 Step 11: The paste with add ; to the first line. Delete it <br>
-Step 12: you may have to click on ... to see + New alert rule <br>
-Step 13: there is no Tactics option <br>
+Step 12: You may have to click on ... to see + New alert rule <br>
+Step 13: There is no Tactics option <br>
 
 Task 2: Privilege Elevation Attack Detection <br>
 Step 2: The paste with add . to the first line. Delete it <br>
 Step 3: The paste with add ; to the first line. Delete it <br>
 Step 4: The paste with add ; to the first line. Delete it <br>
 Step 5: The paste with add ; to the first line. Delete it <br>
-Step 7: there is no Tactics option <br>
+Step 7: There is no Tactics option <br>
 
 ### Exercise 8 - Investigate Incidents
 No Errata <br>
@@ -50,7 +50,13 @@ No Errata <br>
 No Errata <br>
 
 ### Exercise 10 - Create workbooks
-Task 1: Explore workbook templates
+Task 1: Explore workbook templates <br>
+Task 2: Skips steps 4 - 13 <br>
+
+### Exercise 11 - Use Repositories in Microsoft Sentinel
+Skip Task 2: Create our Azure DevOps environment <br>
+
+
 
 ## Learning Path 10 - Lab 1 –Threat hunting in Microsoft Sentinel
 #### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
