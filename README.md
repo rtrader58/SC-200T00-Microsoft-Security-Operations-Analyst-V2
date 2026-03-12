@@ -1,7 +1,8 @@
 # SC-200T00 Microsoft Security Operations Analyst V2
  
 ## This repository is provided to enhance the course.
-## Updated 3/3/2025.
+## Updated Jan 2026 content.
+### Labs keystroked and verified as of 3/12/2026
 
 This repository is maintained by Mike Danseglio and Rick Trader.<br>
 Interface Technical Training.<br>
