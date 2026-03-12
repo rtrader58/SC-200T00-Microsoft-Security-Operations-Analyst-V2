@@ -1,5 +1,4 @@
 # SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 3 Labs
-
 ## Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment (~30 Minutes)
 ### Exercise 1 - Configure your Microsoft Sentinel environment
 Task 4: Create a Watchlist<br>
