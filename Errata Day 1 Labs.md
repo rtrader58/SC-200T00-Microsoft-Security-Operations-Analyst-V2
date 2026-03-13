@@ -4,7 +4,7 @@
 ### Exercise 1 - Explore Microsoft Defender XDR
 
 Task 2: Apply Microsoft Defender for Office 365 preset security policies<br>
-If presented with Sign in to Microsoft Edge select No,thanks<br>
+#### Note: If presented with Sign in to Microsoft Edge select No, thanks<br>
 
 Step 12:  Your Domain name can be found in the Resources dropdown listed as Tenant Name<br>
 
