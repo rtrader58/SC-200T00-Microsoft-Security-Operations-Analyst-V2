@@ -65,7 +65,6 @@ Task 5: Create a Threat Indicator <br>
 #### If you see the following image in step 1 you will not be able to complete the task
 ![Example image](Threat.jpg) <br>
 
-
 ## Learning Path 8 - Lab 01 – Connect logs to Microsoft Sentinel (~80 Minutes) (+ 30 Minute Build Time)
 #### NOTE: This lab will take at least 25 minutes to launch..... this is a good time to take a break
 
@@ -132,7 +131,7 @@ Task 1: Persistence Attack Detection <br>
 Step 10: The paste with add ; to the first line. Delete it <br>
 Step 11: The paste with add ; to the first line. Delete it <br>
 Step 12: You may have to click on ... to see + New alert rule <br>
-Step 13: There is no Tactics option <br>
+Step 13: Tactics has been renamed to MITRRE ATT&CK <br>
 
 Task 2: Privilege Elevation Attack Detection <br>
 Step 2: The paste with add . to the first line. Delete it <br>
