@@ -34,7 +34,7 @@ Task 1: Persistence Attack Detection <br>
 Step 10: The paste with add ; to the first line. Delete it <br>
 Step 11: The paste with add ; to the first line. Delete it <br>
 Step 12: You may have to click on ... to see + New alert rule <br>
-Step 13: There is no Tactics option <br>
+Step 13: Tactics has been renamed to MITRRE ATT&CK <br>
 
 Task 2: Privilege Elevation Attack Detection <br>
 Step 2: The paste with add . to the first line. Delete it <br>
