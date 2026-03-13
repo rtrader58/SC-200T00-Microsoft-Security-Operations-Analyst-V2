@@ -1,5 +1,5 @@
 # Microsoft Learn Path vs PowerPoints vs MS Learn Modules mappings
-# SC-200T00: Microsoft Security Operations Analyst - https://learn.microsoft.com/en-us/training/courses/sc-200t00
+# SC-200T00: Defend against cyberthreats with Microsoft's security operations platform - https://learn.microsoft.com/en-us/training/courses/sc-200t00
 ## Learning Path 1: Mitigate threats using Microsoft 365 Defender - https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-365-defender/
 Module 1: Introduction to Microsoft 365 threat protection - https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-threat-protection/<br>
 Module 2: Mitigate incidents using Microsoft 365 Defender - https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/ <br>

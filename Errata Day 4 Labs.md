@@ -1,4 +1,4 @@
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 4 Labs
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 4 Labs
 ## Learning Path 9 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel
 #### NOTE: This lab will take at least 30 minutes to launch..... this is a good time to take a break
 

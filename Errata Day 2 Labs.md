@@ -1,4 +1,4 @@
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 2 Labs
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 2 Labs
 
 ## Learning Path 5 - Lab 01 – Enable Microsoft Defender for Cloud (~40 Minutes)
 ### Exercise 1 – Enable Microsoft Defender for Cloud

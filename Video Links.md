@@ -1,5 +1,5 @@
 
-# SC-200T00-Microsoft-Security-Operations-Anayst Video Links
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform Video Links
 ### Please remember that you're not expected to watch all of these videos. Watch the ones you find interesting or cover topics that you want to learn in more depth
 ## Module 1 - Mitigate threats using Microsoft 365 Defender - Total time 215 minutes
 ### Detect and respond to modern attacks with unified SIEM and XDR capabilities

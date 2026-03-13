@@ -1,5 +1,5 @@
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata All Learning Paths and Days
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 1 Labs
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata All Learning Paths and Days
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 1 Labs
 # Ensure you choose "SAVE" if you do not finish all 4 labs - so as not to lose your work
 ## Learning Path 1 - Lab 1 - Explore Microsoft Defender XDR (~30 Minutes)
 ### Exercise 1 - Explore Microsoft Defender XDR
@@ -37,7 +37,7 @@ Before starting the lab, close the browser <br>
 Task 1: Verify Device onboarding<br>
 Step 3: You may need to log out, close and reopen the browser and log back in to see Endpoints<br>
 
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 2 Labs
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 2 Labs
 ## Learning Path 5 - Lab 01 – Enable Microsoft Defender for Cloud (~40 Minutes)
 ### Exercise 1 – Enable Microsoft Defender for Cloud
 Task 1: Connect an On-Premises Server <br>
@@ -53,7 +53,7 @@ Due to the limitations of the lab there may be no recommedations listed > skip t
 Task 1: Prepare the KQL testing area <br>
 Wait for the deployment to finish <br>
 
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 3 Labs
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 3 Labs
 ## Learning Path 7 - Lab 01 – Configure your Microsoft Sentinel environment (~30 Minutes)
 ### Exercise 1 - Configure your Microsoft Sentinel environment
 Task 4: Create a Watchlist<br>
@@ -95,7 +95,7 @@ Step 27: LIN2 may be located in the RG-AZWIN01 resource group <br
 Task 2: Connect Microsoft Sentinel and Microsoft Defender XDR  <br>
 Step 13: If you close the "Your unified SIEM and XDR is ready" expand Investigations & response > select Advanced hunting <br>
 
-# SC-200T00-Microsoft-Security-Operations-Anayst - Errata Day 4 Labs
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Errata Day 4 Labs
 ## Learning Path 9 - Lab 01 – Create detections and perform investigations using Microsoft Sentinel
 #### NOTE: This lab will take at least 30 minutes to launch..... this is a good time to take a break
 

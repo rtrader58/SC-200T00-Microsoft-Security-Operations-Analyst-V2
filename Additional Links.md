@@ -1,4 +1,4 @@
-# SC-200T00-Microsoft-Security-Operations-Anayst - Additional links<br>
+# SC-200T00-Defend against cyberthreats with Microsoft's security operations platform - Additional links<br>
 
 Interface Technical Training - http://www.interfacett.com<br>
 Lab environment - https://interfacett.learnondemand.net<br>

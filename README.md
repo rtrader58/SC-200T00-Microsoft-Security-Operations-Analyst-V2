@@ -1,4 +1,4 @@
-# SC-200T00 Microsoft Security Operations Analyst V2
+# SC-200T00 Defend against cyberthreats with Microsoft's security operations platform
  
 ## This repository is provided to enhance the course.
 ## Updated Jan 2026 content.
